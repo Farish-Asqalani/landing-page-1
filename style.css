@@ -1,0 +1,52 @@
+body {
+  background-color: #fff7e1;
+  background-image: url(img/foto2.png);
+  background-size: 50em;
+  background-position: left 44.5em top -95%;
+  background-repeat: no-repeat;
+}
+
+.nav-link {
+  margin-right: 2.5em;
+}
+
+.cari {
+  background-color: #ff4b58;
+  border-radius: 10em;
+  padding: 0 2em;
+  padding-top: 3px;
+  padding-bottom: 4px;
+  width: 204%;
+  text-align: right;
+  color: white;
+  margin-top: 5px;
+}
+
+.cari:hover {
+  color: white;
+}
+
+.special {
+  color: #ff4b58;
+  font-family: "Caveat", cursive;
+  font-size: 4.5rem;
+}
+
+.home {
+  margin-top: 3.5em;
+}
+
+.tombol {
+  background-color: #ff9904;
+  border-radius: 10em;
+  padding: 0 2em;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+  margin-top: 1em;
+}
+
+.tombol:hover {
+  background-color: #ff9904;
+  color: white;
+}
